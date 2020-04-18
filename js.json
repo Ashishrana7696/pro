@@ -33,14 +33,14 @@
         {
             "id": "5",
             "title": "Body Weight Exercise",
-            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/juan-pablo-rodriguez-X6jtULYJQz8-unsplash.jpg",
+            "thumbnail": "https://user-images.githubusercontent.com/53425610/79633304-2da8f300-8182-11ea-8aa9-f76e84aee45a.jpeg",
             "gif": "https://user-images.githubusercontent.com/53425610/79564453-4d7ddf80-80cc-11ea-9cbe-fde8786a8260.gif",
             "seconds": "30"
         },
         {
             "id": "6",
             "title": "Butt Kicks",
-            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/mr-lee-f4RBYsY2hxA-unsplash.jpg",
+            "thumbnail": "https://user-images.githubusercontent.com/53425610/79633304-2da8f300-8182-11ea-8aa9-f76e84aee45a.jpeg",
             "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/butt_kicks.gif",
             "seconds": "30"
         },
