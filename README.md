@@ -9,3 +9,6 @@
 ![WhatsApp Image 2020-04-17 at 5 02 51 PM](https://user-images.githubusercontent.com/53425610/79633304-2da8f300-8182-11ea-8aa9-f76e84aee45a.jpeg)
 ![WhatsApp Image 2020-04-29 at 12 06 40 PM](https://user-images.githubusercontent.com/53425610/80567095-15529700-8a12-11ea-8506-66f5e5725335.jpeg)
 https://user-images.githubusercontent.com/53425610/80736699-1bd73080-8b30-11ea-8529-433ab73b33b1.gif
+![Gif_20200501123107014_by_gifguru](https://user-images.githubusercontent.com/53425610/80788998-5f6d8100-8ba8-11ea-9589-e500d87298eb.gif)
+![Gif_20200501123151338_by_gifguru](https://user-images.githubusercontent.com/53425610/80788999-60061780-8ba8-11ea-9ad7-9fea64263b32.gif)
+![WhatsApp Image 2020-05-01 at 12 37 19 PM](https://user-images.githubusercontent.com/53425610/80789097-9fccff00-8ba8-11ea-8f6f-0a3147111eb9.jpeg)
