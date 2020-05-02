@@ -25,17 +25,18 @@
            
         },
         {
-            "id": "5",
-            "title": " Fat Workout",
-            "thumbnail": "https://user-images.githubusercontent.com/53425610/80567095-15529700-8a12-11ea-8506-66f5e5725335.jpeg",
-            "gif": "https://user-images.githubusercontent.com/53425610/79562943-7a7cc300-80c9-11ea-8880-e4b3934de5c4.gif",
-            "seconds": "30"
-        },
-        {
             "id": "4",
             "title": "Body Weight Exercise",
             "thumbnail": "https://user-images.githubusercontent.com/53425610/79633304-2da8f300-8182-11ea-8aa9-f76e84aee45a.jpeg",
             "gif": "https://user-images.githubusercontent.com/53425610/79564453-4d7ddf80-80cc-11ea-9cbe-fde8786a8260.gif",
+            "seconds": "30"
+            
+        },
+        {
+            "id": "5",
+            "title": " Fat Workout",
+            "thumbnail": "https://user-images.githubusercontent.com/53425610/80567095-15529700-8a12-11ea-8506-66f5e5725335.jpeg",
+            "gif": "https://user-images.githubusercontent.com/53425610/79562943-7a7cc300-80c9-11ea-8880-e4b3934de5c4.gif",
             "seconds": "30"
         },
         {
