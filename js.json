@@ -22,15 +22,13 @@
             "thumbnail": "https://user-images.githubusercontent.com/53425610/80857602-01f13700-8c71-11ea-9b58-f87101ecc4f1.jpg",
             "gif": "https://user-images.githubusercontent.com/53425610/80857607-04ec2780-8c71-11ea-8b63-aa3f76c906b4.gif",
             "seconds": "30"
-           
         },
         {
             "id": "4",
-            "title": "Body Weight Exercise",
-            "thumbnail": "https://user-images.githubusercontent.com/53425610/79633304-2da8f300-8182-11ea-8aa9-f76e84aee45a.jpeg",
-            "gif": "https://user-images.githubusercontent.com/53425610/79564453-4d7ddf80-80cc-11ea-9cbe-fde8786a8260.gif",
+            "title": "BICEPS CURLS",
+            "thumbnail": "https://user-images.githubusercontent.com/53425610/80857561-cc4c4e00-8c70-11ea-832a-a184c828e0ec.jpg",
+            "gif": "https://user-images.githubusercontent.com/53425610/80857574-db330080-8c70-11ea-84bc-a2e9a8f2b106.gif",
             "seconds": "30"
-            
         },
         {
             "id": "5",
@@ -53,14 +51,11 @@
             "gif": "https://user-images.githubusercontent.com/53425610/80789905-05ba8600-8bab-11ea-9901-14a741dd30ab.gif",
             "seconds": "30"
         },
-
-
-
         {
             "id": "8",
-            "title": "BICEPS CURLS",
-            "thumbnail": "https://user-images.githubusercontent.com/53425610/80857561-cc4c4e00-8c70-11ea-832a-a184c828e0ec.jpg",
-            "gif": "https://user-images.githubusercontent.com/53425610/80857574-db330080-8c70-11ea-84bc-a2e9a8f2b106.gif",
+            "title": "Body Weight Exercise",
+            "thumbnail": "https://user-images.githubusercontent.com/53425610/79633304-2da8f300-8182-11ea-8aa9-f76e84aee45a.jpeg",
+            "gif": "https://user-images.githubusercontent.com/53425610/79564453-4d7ddf80-80cc-11ea-9cbe-fde8786a8260.gif",
             "seconds": "30"
         },
         {
