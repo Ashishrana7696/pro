@@ -13,4 +13,10 @@ https://user-images.githubusercontent.com/53425610/80736699-1bd73080-8b30-11ea-8
 ![Gif_20200501123151338_by_gifguru](https://user-images.githubusercontent.com/53425610/80788999-60061780-8ba8-11ea-9ad7-9fea64263b32.gif)
 ![WhatsApp Image 2020-05-01 at 12 37 19 PM](https://user-images.githubusercontent.com/53425610/80789097-9fccff00-8ba8-11ea-8f6f-0a3147111eb9.jpeg)
 ![Gif_20200501124740290_by_gifguru](https://user-images.githubusercontent.com/53425610/80789905-05ba8600-8bab-11ea-9901-14a741dd30ab.gif)
-1
+![Screenshot_2020-05-02-12-16-28-671_com miui videoplayer](https://user-images.githubusercontent.com/53425610/80857561-cc4c4e00-8c70-11ea-832a-a184c828e0ec.jpg
+
+![IMG_20200502_121903](https://user-images.githubusercontent.com/53425610/80857602-01f13700-8c71-11ea-9b58-f87101ecc4f1.jpg)
+![Gif_20200502122100357_by_gifguru](https://user-images.githubusercontent.com/53425610/80857607-04ec2780-8c71-11ea-8b63-aa3f76c906b4.gif)
+)
+
+![Gif_20200502122153057_by_gifguru](https://user-images.githubusercontent.com/53425610/80857574-db330080-8c70-11ea-84bc-a2e9a8f2b106.gif)
