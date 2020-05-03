@@ -2,32 +2,33 @@
 
 {
     "exercises": [
+       
         {
             "id": "1",
-            "title": "Back Workout",
-            "thumbnail": "https://user-images.githubusercontent.com/53425610/79633218-c428e480-8181-11ea-8cff-7c4d5c9c794e.jpeg",
-            "gif": "https://user-images.githubusercontent.com/53425610/79564453-4d7ddf80-80cc-11ea-9cbe-fde8786a8260.gif",
-            "seconds": "30"
-        },
-        {
-            "id": "2",
             "title": " Full Body Workout",
             "thumbnail": "https://user-images.githubusercontent.com/53425610/80899163-9370af80-8d2a-11ea-8fdd-593da9bf6b60.jpg",
             "gif": "https://user-images.githubusercontent.com/53425610/79562943-7a7cc300-80c9-11ea-8880-e4b3934de5c4.gif",
             "seconds": "30" 
         },
         {
-             "id": "3",
+             "id": "2",
             "title": "Bicep Rod",
             "thumbnail": "https://user-images.githubusercontent.com/53425610/80857602-01f13700-8c71-11ea-9b58-f87101ecc4f1.jpg",
             "gif": "https://user-images.githubusercontent.com/53425610/80857607-04ec2780-8c71-11ea-8b63-aa3f76c906b4.gif",
             "seconds": "30"
         },
         {
-            "id": "4",
+            "id": "3",
             "title": "BICEPS CURLS",
             "thumbnail": "https://user-images.githubusercontent.com/53425610/80857561-cc4c4e00-8c70-11ea-832a-a184c828e0ec.jpg",
             "gif": "https://user-images.githubusercontent.com/53425610/80857574-db330080-8c70-11ea-84bc-a2e9a8f2b106.gif",
+            "seconds": "30"
+        },
+         {
+            "id": "4",
+            "title": "Back Workout",
+            "thumbnail": "https://user-images.githubusercontent.com/53425610/79633218-c428e480-8181-11ea-8cff-7c4d5c9c794e.jpeg",
+            "gif": "https://user-images.githubusercontent.com/53425610/79564453-4d7ddf80-80cc-11ea-9cbe-fde8786a8260.gif",
             "seconds": "30"
         },
         {
