@@ -18,3 +18,12 @@ https://user-images.githubusercontent.com/53425610/80736699-1bd73080-8b30-11ea-8
 ![IMG_20200503_103509](https://user-images.githubusercontent.com/53425610/80899163-9370af80-8d2a-11ea-8fdd-593da9bf6b60.jpg)
 ![IMG_20200503_102554](https://user-images.githubusercontent.com/53425610/80899168-99669080-8d2a-11ea-8e68-c4a09aa3cff9.jpg)
 
+
+
+
+![16-program](https://user-images.githubusercontent.com/53425610/81143540-b6e86400-8f8f-11ea-898b-e34002c23786.jpg)
+![5-warmup](https://user-images.githubusercontent.com/53425610/81143544-b9e35480-8f8f-11ea-8c37-ff6648cd498d.jpg)
+![4-airplane](https://user-images.githubusercontent.com/53425610/81143553-bc45ae80-8f8f-11ea-9ce4-3211458aeb70.jpg)
+![3-playlist](https://user-images.githubusercontent.com/53425610/81143556-bcde4500-8f8f-11ea-9339-c4d0fdc90b14.jpg)
+![10-compound](https://user-images.githubusercontent.com/53425610/81143558-bd76db80-8f8f-11ea-85e5-65add82d2236.jpg)
+![11-weights](https://user-images.githubusercontent.com/53425610/81143559-bea80880-8f8f-11ea-806f-3a64ba6364e4.jpg)
