@@ -14,8 +14,8 @@
         },
         {
             "id": "3",
-            "title": "Get motivated with a solid workout playlist.\n Get pumped up on your way to the gym and during your workout with songs that make you feel strong, powerful, and like you can do anything.",
-            "body":"",
+            "title": "Get motivated with a solid workout playlist",
+            "body": "Get pumped up on your way to the gym and during your workout with songs that make you feel strong, powerful, and like you can do anything.",
             "thumbnail": "https://user-images.githubusercontent.com/53425610/81143556-bcde4500-8f8f-11ea-9339-c4d0fdc90b14.jpg"
         },
         {
@@ -37,41 +37,40 @@
             "thumbnail": "https://user-images.githubusercontent.com/53425610/81143540-b6e86400-8f8f-11ea-898b-e34002c23786.jpg"
         },
         {
-            "id": "1",
+            "id": "7",
             "title": " Incorporate compound movements to hit more muscles at once.",
             "body": "Compound exercises recruit multiple muscle groups and two or more joints at once. That’s opposed to isolation exercises, which target one muscle group (like bicep curls).",
             "thumbnail": "https://user-images.githubusercontent.com/53425610/81143558-bd76db80-8f8f-11ea-85e5-65add82d2236.jpg"
         },
         {
-            "id": "2",
+            "id": "8",
             "title": "Put your phone on airplane mode",
             "body": "Resist the urge to chime in on your group text or check that Snapchat message. Your workout is the time you get to invest in yourself, so turn your phone on airplane mode to avoid unnecessary distraction. Even better? If you don’t need your phone for your music or any workout apps, leave it in the locker room. The workout 'grams can wait.",
             "thumbnail": "https://user-images.githubusercontent.com/53425610/81143553-bc45ae80-8f8f-11ea-9ce4-3211458aeb70.jpg"
         },
         {
-            "id": "3",
-            "title": "Get motivated with a solid workout playlist.\n Get pumped up on your way to the gym and during your workout with songs that make you feel strong, powerful, and like you can do anything.",
-            "body":"",
+            "id": "9",
+            "title": "Get motivated with a solid workout playlist",
+            "body": "Get pumped up on your way to the gym and during your workout with songs that make you feel strong, powerful, and like you can do anything.",
             "thumbnail": "https://user-images.githubusercontent.com/53425610/81143556-bcde4500-8f8f-11ea-9339-c4d0fdc90b14.jpg"
         },
         {
-            "id": "4",
+            "id": "10",
             "title": "Start your workout with some dynamic stretches",
             "body": "Dynamic stretches are a core component of pretty much any warm-up. With dynamic stretching, you’ll be moving through different stretches, rather than holding the stretch in place.",
             "thumbnail": "https://user-images.githubusercontent.com/53425610/81143544-b9e35480-8f8f-11ea-8c37-ff6648cd498d.jpg"
         },
         {
-            "id": "5",
+            "id": "11",
             "title": "Amp up exercises by adding weights",
             "body": "While you can get a heart-pumping workout using only bodyweight exercises, adding in weights gives your muscles an extra challenge. If you feel like you’ve mastered moves like basic squats and lunges, try holding a set of dumbbells or a medicine ball to make these types of bodyweight moves more challenging and effective.",
             "thumbnail": "https://user-images.githubusercontent.com/53425610/81143559-bea80880-8f8f-11ea-806f-3a64ba6364e4.jpg"
         },
         {
-            "id": "6",
+            "id": "12",
             "title": "Try following a specific fitness program tailored to your goals",
             "body": "If you have a specific fitness goal, consider following a specific program created for that goal. If you're looking to run a 5K race, for example, following a 6-week 5K training program will prepare your body better than simply running a few times a week.",
             "thumbnail": "https://user-images.githubusercontent.com/53425610/81143540-b6e86400-8f8f-11ea-898b-e34002c23786.jpg"
-        },
-        
+        }
     ]
 }
