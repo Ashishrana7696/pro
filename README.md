@@ -27,3 +27,12 @@ https://user-images.githubusercontent.com/53425610/80736699-1bd73080-8b30-11ea-8
 ![3-playlist](https://user-images.githubusercontent.com/53425610/81143556-bcde4500-8f8f-11ea-9339-c4d0fdc90b14.jpg)
 ![10-compound](https://user-images.githubusercontent.com/53425610/81143558-bd76db80-8f8f-11ea-85e5-65add82d2236.jpg)
 ![11-weights](https://user-images.githubusercontent.com/53425610/81143559-bea80880-8f8f-11ea-806f-3a64ba6364e4.jpg)
+
+
+
+
+
+![Gif_20200508213214355_by_gifguru](https://user-images.githubusercontent.com/53425610/81425089-8ada0800-9174-11ea-9c28-04eaa164d5e5.gif)
+
+![WhatsApp Image 2020-05-08 at 9 06 30 PM](https://user-images.githubusercontent.com/53425610/81424732-07201b80-9174-11ea-9ead-5e9aaa65ab12.jpeg)
+
